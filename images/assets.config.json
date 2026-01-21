@@ -1,0 +1,21 @@
+{
+  "company": {
+    "logo": "https://placehold.co/200x80/FFCC00/000000?text=TARPIKA",
+    "visitingCard": "https://placehold.co/600x400/eeeeee/333333?text=Visiting+Card"
+  },
+  "partners": {
+    "talabat": "https://placehold.co/150x80/ffffff/ff5722?text=Talabat",
+    "rafeeq": "https://placehold.co/150x80/ffffff/00bcd4?text=Rafeeq",
+    "snoonu": "https://placehold.co/150x80/ffffff/9c27b0?text=Snoonu",
+    "keeta": "https://placehold.co/150x80/ffffff/e91e63?text=Keeta",
+    "temu": "https://placehold.co/150x80/ffffff/fb8c00?text=Temu"
+  },
+  "sections": {
+    "hero": "https://placehold.co/1200x600/111111/FFCC00?text=Logistics+Manpower",
+    "about": "https://placehold.co/800x600/222222/ffffff?text=About+Us",
+    "services": {
+      "riders": "https://placehold.co/400x300/333333/ffffff?text=Bike+Riders",
+      "drivers": "https://placehold.co/400x300/333333/ffffff?text=Car+Drivers"
+    }
+  }
+}
